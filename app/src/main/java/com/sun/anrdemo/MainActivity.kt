@@ -46,6 +46,13 @@ class MainActivity : AppCompatActivity() {
             Log.e("DDDD","DDDD")
             Log.e("DDDD","DDDD")
 
+
+            Log.e("DDDD","DDDD")
+            Log.e("DDDD","DDDD")
+            Log.e("DDDD","DDDD")
+            Log.e("DDDD","DDDD")
+            Log.e("DDDD","DDDD")
+
         }
     }
 }
