@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
             Log.e("GGGGG","GGGGG")
 
 
-            Log.e("HHHHH","HHHHH")
+            Log.e("IIIIII","IIIIII")
 
         }
     }
