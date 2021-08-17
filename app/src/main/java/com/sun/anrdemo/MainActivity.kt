@@ -74,6 +74,9 @@ class MainActivity : AppCompatActivity() {
             Log.e("GGGGG","GGGGG")
             Log.e("GGGGG","GGGGG")
 
+
+            Log.e("HHHHH","HHHHH")
+
         }
     }
 }
